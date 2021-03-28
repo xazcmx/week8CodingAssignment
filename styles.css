@@ -1,0 +1,75 @@
+html {
+    font-family: Garamond;
+    letter-spacing: -1px;
+    font-size: 20px;
+    font-weight: bold;
+
+}
+
+h1 {
+    background-color: lightgreen; 
+    color: maroon;
+}
+
+h2 {
+    background-color: lightgreen; 
+    color: maroon;
+}
+
+h3 {
+    background-color: lightgreen; 
+    color: maroon;
+    text-shadow: mediumseagreen;
+}
+
+p {
+    text-shadow: mediumseagreen 1px 1px 3px;
+    color: maroon;
+}
+
+
+#links {
+    background-color: mediumorchid;
+    position: sticky;
+    top: 0;
+}
+
+.center {
+    margin: auto;
+    width: 50%;
+    text-align: center;
+  }
+
+.background-image {
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    transition: .3s;
+    width: 100%
+}
+
+.body-images {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+    
+}
+
+span {
+    font-family: inherit;
+    font-size: inherit;
+    color: darksalmon;
+}
+
+th, td {
+    padding: 8px;
+    border: 1px solid grey;
+
+}
+
+li {
+    padding: 8px;
+    border: 1px solid grey;
+    color: lightcoral;
+}
